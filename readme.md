@@ -4,6 +4,6 @@ This project implements a vehicle tracking system using the YOLOv8 model on high
 Run the Script:
 
 ```bash
-python script.py
+python car_counter.py
 
 ```
